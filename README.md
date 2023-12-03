@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <h3 align="center">:pencil2: TECH STACK :pencil2: </h3>
+ <h3 align="center">✏️ TECH STACK ✏️ </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" height="28"/>
